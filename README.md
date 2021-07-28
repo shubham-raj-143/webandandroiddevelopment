@@ -51,5 +51,5 @@
 
 
 [twitter]: https://twitter.com/spsrstudios
-[instagram]: https://instagram.com/shubhaam__raj
+[instagram]: https://instagram.com/shubhaam_raj
 [linkedin]: https://linkedin.com/in/spsr-studios
