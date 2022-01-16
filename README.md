@@ -40,13 +40,13 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: Github Stats</summary>
 
   [![Shubham's Github stats](https://github-readme-stats.vercel.app/api?username=webandandroiddevelopment&show_icons=true&theme=radical)](https://github.com/webandandroiddevelopment/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webandandroiddevelopment&layout=compact&theme=radical)](https://github.com/webandandroiddevelopment/github-readme-stats)
 </details>
-
+ -->
 
 [twitter]: https://twitter.com/spsrstudios
 [instagram]: https://instagram.com/shubhaam_raj
