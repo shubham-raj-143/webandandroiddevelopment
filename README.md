@@ -1,10 +1,9 @@
 ### Hi there, I'm Shubham Raj 👋
 
 ## I'm a Student, Developer, and Learner!!
- 
-- 📓  Sanskrit could be the future of programming. 
+  
 - 👨🏻‍💻 Collaborate with other Developers
-- ⛳️ 2021 Goals: Build some awesome applications
+- ⛳️ 2022-23 Goals: Build some awesome applications
 - 🧩 Hangouts : I love to read physics  and listen music 🎧
 
 
